@@ -1,4 +1,4 @@
-# census-income-prediction
+# Census-Income-Prediction
 
 In this assignment students need to predict whether a person makes over
 50K per year or not from classic adult dataset using XGBoost.<br>
@@ -75,10 +75,10 @@ python app.py
 ```
 ## Home Proejct
 
-![Test Image 1](https://github.com/codejay411/census-income-prediction/blob/main/Screenshot%20(76).png)
+![Test Image 1](https://github.com/codejay411/Census-Income-Prediction/blob/main/Screenshot%20(76).png)
 
 ## Prediction page
 
-![Test Image 1](https://github.com/codejay411/census-income-prediction/blob/main/Screenshot%20(77).png)
+![Test Image 1](https://github.com/codejay411/Census-Income-Prediction/blob/main/Screenshot%20(77).png)
 
 
